@@ -14,6 +14,7 @@
         android:numColumns="2"
         android:verticalSpacing="1dp"
         android:horizontalSpacing="1dp"
-        android:background="#e5e5e5"></GridView>
+        android:background="#e5e5e5">
+    </GridView>
 
 </LinearLayout>
